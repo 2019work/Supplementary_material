@@ -1,0 +1,2 @@
+this folder contains all result (precision, recall and F-measure) of the base line method -
+selecting top 1%,2%,4%,8%,15% or removing bottom 1%,2%,4%,8%,15% projects in four dimensions 
