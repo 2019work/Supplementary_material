@@ -1,0 +1,1 @@
+This folder contains the training dataset for our method and the model file.
