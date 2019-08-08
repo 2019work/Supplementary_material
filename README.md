@@ -1,4 +1,4 @@
-# NASAC Supplementary Material
+# Supplementary Material
 
 This repository contains the resources and the tool mentioned in our paper: An Improved Public Development OSS Projects Selection Method based on Document Frequency and Balanced Trainning Datasets. 
 
