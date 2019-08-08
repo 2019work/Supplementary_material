@@ -1,6 +1,6 @@
 # NASAC Supplementary Material
 
-This repository contains the resources and the tool mentioned in our paper: An Improved Method for Automatic Detection of Public Development OSS Projects. 
+This repository contains the resources and the tool mentioned in our paper: An Improved Public Development OSS Projects Selection Method based on Document Frequency and Balanced Trainning Datasets. 
 
 With this simple visual tool, researchers can easily use our model to detect public development projects. Besides, researchers can also use this tool to train their own J48 model.
 
